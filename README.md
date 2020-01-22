@@ -3,7 +3,7 @@ Final project provided for Python class
 
 This final project was made by Gabriel Martinica
 
-To run the program, you need the necessary files: transactions.csv, categories.csv and customers.csv in the same folder as the program you are running.
+To run the program, you need the necessary files: transactions.csv, categories.csv and customers.csv in the same folder as the program you are running. These are csv files converted from a two column Excel table (program uses this format).
 
 The first thing the program asks you is the customer ID. If you want the program to work, you need to give it a valid customer ID. The customer ID list can be found in customers.csv. If you do not give it a valid customer ID, then you will have to try again. The same will be done for the product.
 
